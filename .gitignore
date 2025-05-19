@@ -3,3 +3,4 @@ CNN/dataset/
 __pycache__/
 .DS_Store
 Transfer_Learning/Pneumonia_xray_prediction.h5
+venv/
